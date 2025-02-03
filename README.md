@@ -7,3 +7,4 @@ This Java program provides basic array operations such as:
  ## Files
 - **UserInput.java**: Handles user input for an integer array.
 - **ArrayFunctions.java**: Implements methods for array operations.
+- **Main.java**: Runs the program.
